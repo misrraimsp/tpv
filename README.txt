@@ -1,8 +1,10 @@
+year 2015
 
+author: misrraim
+last version: 22/05/2015
 
-PROJECT TITLE: Simulador Terminal Punto de Venta
-PURPOSE OF PROJECT: Primer contacto con POO
-VERSION or DATE: 22/05/2015
-HOW TO START THIS PROJECT:
-AUTHORS: misrraim
-USER INSTRUCTIONS:
+This program simulates a POS (Point Of Sale) (Terminal Punto de Venta, TPV, in spanish). This was an introductory project on object oriented programming paradigm, implemented in Java. 
+
+For more info see:
+'Task Definition.pdf'
+'Final Report.pdf'
