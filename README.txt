@@ -1,0 +1,8 @@
+
+
+PROJECT TITLE: Simulador Terminal Punto de Venta
+PURPOSE OF PROJECT: Primer contacto con POO
+VERSION or DATE: 22/05/2015
+HOW TO START THIS PROJECT:
+AUTHORS: misrraim
+USER INSTRUCTIONS:

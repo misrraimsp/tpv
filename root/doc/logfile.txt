@@ -1,0 +1,47 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV
+-d
+C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\RegFactura.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\RegFactura.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_40
+Building tree for all the packages and classes...
+Generating C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\doc\RegFactura.html...
+C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\RegFactura.java:44: warning - @param argument "String" is not a parameter name.
+C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\RegFactura.java:44: warning - @param argument "Registro" is not a parameter name.
+C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\RegFactura.java:44: warning - @param argument "Registro" is not a parameter name.
+C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\RegFactura.java:30: warning - @param argument "Factura" is not a parameter name.
+C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\RegFactura.java:30: warning - @return tag cannot be used in method with void return type.
+Generating C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\doc\package-frame.html...
+Generating C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\doc\package-summary.html...
+Generating C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\doc\allclasses-frame.html...
+Generating C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\doc\allclasses-noframe.html...
+Generating C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\doc\index.html...
+Generating C:\Users\Andrea\Desktop\Misrra\Programación Orientada a Objetos\Práctica\POO_Misrraim Suárez Pérez\Código Proyecto TPV\doc\stylesheet.css...
+5 warnings
